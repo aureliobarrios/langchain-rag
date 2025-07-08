@@ -1,0 +1,9 @@
+langchain-text-splitters
+langchain-community
+langgraph
+langchain-groq
+langchain-ollama
+langchain-unstructured
+unstructured-client
+unstructured
+python-magic
